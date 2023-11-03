@@ -40,7 +40,6 @@ Enter file in which to save the key (/home/ubuntu/.ssh/id_rsa): ec2_rsa
        Copy the Private Key ec2_rsa to ~/.ssh/ path and keep the ec2_rsa.pub under the terraform_state_files along with the other state files.
 
 f.	Now initialize the Terraform and import the providers required
-cd terraform_state_files
 terraform init
 terraform plan
 
