@@ -5,6 +5,7 @@ Deploying Fullstack Web Application Over AWS Cloud
 
 Requirements:
 •	Need to have a valid AWS account
+
 Technology used:
 •	RDS Mysql
 •	Wordpress
